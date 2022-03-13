@@ -230,5 +230,5 @@ body {
   margin-top: 16px;
 }
 .icon:hover {
-  transform: rotateZ(10deg);
+  transform: scale(1.5);
 }
